@@ -1,4 +1,4 @@
-# Building-LLMS-From-scratch
+
 
 # Building a Large Language Model (LLM) from Scratch
 This project demonstrates how to design, train, and deploy a Large Language Model (LLM) from the ground up. It walks through the core concepts and practical steps behind modern language models like GPT, with a focus on understanding the architecture, tokenization, data processing, and training workflows required to build a functional LLM.
